@@ -1,4 +1,4 @@
-<img align="left" height="500" src="https://octodex.github.com/images/steroidtocat.png"  />
+<img align="left" height="400" src="https://octodex.github.com/images/steroidtocat.png"  />
 
 ###
 
