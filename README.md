@@ -1,4 +1,6 @@
-<img align="left" height="500" src="https://octodex.github.com/images/steroidtocat.png"  />
+<div align="center">
+  <img height="350" src="https://octodex.github.com/images/steroidtocat.png"  />
+</div>
 
 ###
 
@@ -26,7 +28,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me: Graduate in Industrial Engineering and student of Software Engineering with the ability to perform in areas related to these fields. Deeply interested in the areas of development and artificial intelligence.</h3>
+<h4 align="left">👩‍💻  About Me: Graduate in Industrial Engineering and student of Software Engineering with the ability to perform in areas related to these fields. Deeply interested in the areas of development and artificial intelligence.</h4>
 
 ###
 
@@ -77,6 +79,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidmateohenaoprieto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="200" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=davidmateohenaoprieto&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
+
+###
 
 ###
 <picture>
