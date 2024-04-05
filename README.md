@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm from Bogotá, Colombia<br><br>- 📚 I'm currently learning Data Science and Machine Leargning<br>- ⚡ In my free time i play some sports, read and try new restaurants</p>
+<p align="left">I'm from Bogotá, Colombia<br><br>- 📚 I'm currently learning Data Science and Machine Learning<br>- ⚡ In my free time i play some sports, read and try new restaurants</p>
 
 ###
 
